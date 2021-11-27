@@ -1,4 +1,4 @@
-##Crypto Price Tracker
+# Crypto Price Tracker
 
 This a project i did following a tut on how to use coingeko api to get stats and using react to create this tracker.
 
