@@ -4,7 +4,7 @@ This a project i did following a tut on how to use coingeko api to get stats and
 
 ## Description
 
-In this project my main focus was to get more into react and learn how to use the hooks.Along with that i also learn how to use Axios to fetch data from a thir party api.
+In this project my main focus was to get more into react and learn how to use the hooks. Along with that i also learnt how to use Axios to fetch data from a thir party api.
 
 
 
